@@ -1,0 +1,8 @@
+{
+  "name": "Your Graphics Agency (YGA)",
+  "description": "We Create. We Brand. We Grow. Full-service creative, branding, printing, offline events, and digital marketing agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
